@@ -23,6 +23,6 @@ Morbi dictum leo non tellus hendrerit [viverra](www.example.com). Duis ut arcu s
  - **2 SKULLS** -> Register Domain + point to a [GitHub pages repo](https://github.com/aggressiveperfector/michaelmardell) / [michaelmardell.com](michaelmardell.com)
  - **1 SKULL** -> Flywheel extension [screenshot](https://imgur.com/a/YD2Fa8A)
 
- ## Skull Tracker [**BOUNTIES**](https://github.com/sait-wbdv/assessments/tree/master/cpnt265/agile/bounties)
+## Skull Tracker [**BOUNTIES**](https://github.com/sait-wbdv/assessments/tree/master/cpnt265/agile/bounties)
  - **1 SKULL** "Early Adopter/Attendance" 2020-12-04
  - **1 SKULL** "Awarded by Patrick B: MVP" 2020-12-04
