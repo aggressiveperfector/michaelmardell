@@ -31,7 +31,7 @@ Morbi dictum leo non tellus hendrerit [viverra](www.example.com). Duis ut arcu s
 ### **TOTAL SKULLS [ 9 ]**
 
 **Pending Skulls**
- 
+- **?? SKULLS** -> Lean Canvas w/ Offy 2020-12-09
 - **?? SKULLS** -> Codeskull logo mock ups [v.0](https://i.imgur.com/j4kbkVg.jpg)
 - **?? SKULLS** -> Final presentation overlay
 - **?? SKULLS** -> Trophy vector badge icons
