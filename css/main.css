@@ -84,7 +84,7 @@ main {
 
   margin: auto;
 
-  background-image: linear-gradient(180deg, black 20%, red, black 80%);
+  background-image: linear-gradient(180deg, black 20%, black 80%);
 }
 
 .print-section {
