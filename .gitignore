@@ -1,0 +1,10 @@
+# working files
+_working
+
+
+# dotenv environment variables file
+.env
+.env.test
+
+# npm dependency directory
+node_modules
